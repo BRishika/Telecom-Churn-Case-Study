@@ -71,5 +71,5 @@ Ultimately, recommendations for managing customer churn will be based on our obs
 **Files uploaded:**
 1. README file: README.md
 2. Python notebook: telecom churn case study.ipynb
-3. Case study pdf: telecom churn case study.pdf
+3. Case study pdf: Telecom Churn Case Study.pdf
 4. Excel file: telecom_churn_data.csv
