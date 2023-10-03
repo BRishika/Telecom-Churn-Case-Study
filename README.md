@@ -68,7 +68,7 @@ To achieve the second goal of identifying significant predictor attributes, a se
 Ultimately, recommendations for managing customer churn will be based on our observations and findings.
 
 
-Files uploaded:
+**Files uploaded:**
 1. README file: README.md
 2. Python notebook: telecom churn case study.ipynb
 3. Case study pdf: telecom churn case study.pdf
